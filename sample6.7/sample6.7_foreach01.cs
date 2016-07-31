@@ -13,7 +13,9 @@ class Foreach01
         {
             Console.WriteLine(str);
         }
+
         Console.WriteLine();
+
         foreach (int i in num)
         {
             Console.WriteLine(i);
